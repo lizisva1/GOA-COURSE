@@ -1,0 +1,20 @@
+name="lizi"
+#name არის ცვლადი
+# = არის ცვლადისთვის მნიშვნელობის მიმნიჭებელი სიმბოლო
+# "lizi" არის ცვლადისთვის მნიშვნელობა
+
+surname="svanidze"
+
+print("lizi")
+#პრინტ ფუნქციას გადაეცემა ეკრანზე გამოსატანი ობიექტი
+
+name="lizi" #ეს არის str ტიპის ცვლადი
+age = 15 # ეს არის int მთელი რიცხვი
+height = 173.5 # ეს არის float ტიპის ცვლადი 
+
+knows_programing = True   #true or false
+is_short = False
+
+print (name + "    " +  surname)
+
+print(name + " " + str(age))
